@@ -1,0 +1,16 @@
+/* Inserta tu código aquí */
+*{
+	box-sizing: border-box;	
+
+}
+.formulario{
+	margin-top: 20px;
+}
+.formulario .promedio{
+	padding-bottom: 20px;
+}
+form{
+	margin: 0px auto;
+	padding:0;
+}
+
