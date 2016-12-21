@@ -3,7 +3,7 @@ function alcanzoPromedio() {
 	var MaxPuntos = parseInt(document.getElementById("maxPuntos").value);
     var frase;
     resultado=(PuntosSquad*100)/MaxPuntos;
-    if(resultado>80)
+    if(resultado>=80)
         { 
             document.getElementById("frase").innerHTML="<p class='frase'>Muy bien squad!</p>";
         }

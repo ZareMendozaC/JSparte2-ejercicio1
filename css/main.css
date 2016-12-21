@@ -19,6 +19,7 @@
 .form .frase{
 	color:skyblue;
 	font-size: 20px;
+	margin-left: 40px;
 }
 @media (min-width: 768px)and (max-width: 1024px)
 {
