@@ -1,7 +1,6 @@
 /* Inserta tu código aquí */
 *{
 	box-sizing: border-box;
-
 }
 .formulario{
 	margin-top: 20px;	
@@ -43,4 +42,11 @@
 	.form .btn{
 		margin-left: -96px;
 	}
+}
+.navegacion { 
+	margin-top: 20px;
+	
+}
+.navegacion a{
+	text-decoration: none;
 }
